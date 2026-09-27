@@ -6,7 +6,7 @@ import time
 # PAGE CONFIG
 # ============================================================
 
-st.set_page_config(
+st.set_page_config(a
     page_title="AI Interview Generator",
     page_icon="🎯",
     layout="wide"
